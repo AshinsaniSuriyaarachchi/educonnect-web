@@ -1,3 +1,7 @@
+Buddhipriya Ashinsani Suriyaarachchi - Professional project for BCS PGD Higher education qualification.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 EduConnect – A Central Hub for Educational Courses in Sri Lanka
 
 EduConnect is a web-based platform designed to help Sri Lankan students easily explore higher education opportunities after O/Ls and A/Ls. It centralizes course and institution information from UGC-approved private institutions, providing verified, trustworthy, and user-friendly access to education pathways.
