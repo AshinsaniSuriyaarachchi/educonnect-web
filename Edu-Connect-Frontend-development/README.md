@@ -1,8 +1,6 @@
 # Edu-Connect-Frontend
 
 
-# EduConnect / Library Front-End
-
 ## Overview
 This project is the front-end of a web-based platform designed to enhance user interaction with library resources and higher education course information. Built using **ASP.NET MVC**, **C#**, **HTML**, **CSS**, and **Razor syntax**, the interface allows users to browse, reserve, and return books or CDs, as well as access detailed course and institution information for higher education guidance.
 
